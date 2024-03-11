@@ -2,14 +2,14 @@
 
 Here is my first github project.
 
-I need put in a lot effort on the project
+I will give a brief introduction to myself
 
 *Be more specific.*
 
-- Go for every lecture
-- well done with my project
--Do not be lazy
+- My name is Huanyu Liu
+- my major is [computer science](https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/computer-science/undergraduate.html?gad_source=1&gclid=CjwKCAiA0bWvBhBjEiwAtEsoW0rBD-NFGetHw_SAZIeZdEHHrINNqIQW3uSBHNkhhFYwDDPjJPRLVBoCS5oQAvD_BwE&gclsrc=aw.ds)
 
-## second part
 
-Here is the link for [my favourite movie](https://www.youtube.com/watch?v=jWM0ct-OLsM)!
+## favourite movie
+
+Here is the link for my favourite movie: [zootopia](https://www.youtube.com/watch?v=jWM0ct-OLsM)!
